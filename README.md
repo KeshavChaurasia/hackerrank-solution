@@ -1,14 +1,14 @@
 # HACKERRANK - SOLUTIONS
 
 ## problem-solving
-1. Warm-up
   - birthday-cake-candles
   - diagonal-difference
   - min-max-sum
   - plus-minus
   - staircase
   - time-conversion
-
+  - grading
+ 
 ## SQL
 - binary-tree-nodes
 - earnings-of-employees
