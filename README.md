@@ -8,7 +8,8 @@
   - staircase
   - time-conversion
   - grading
- 
+  - apple-and-orange
+  - kangaroo
 ## SQL
 - binary-tree-nodes
 - earnings-of-employees
